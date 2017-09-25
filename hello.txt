@@ -1,2 +1,1 @@
-想hello.txt添加内容
-user3添加内容
+user3 update hello.txt
